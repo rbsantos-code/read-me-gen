@@ -56,18 +56,12 @@ function generateMarkdown(data) {
 
   ## Packages 
   * install package(s) by running:
-
-  ================================
   ${data.packages}
-  ================================
-
+  
   ## Test 
   * run this command in order to test:
-
-  ================================
   ${data.test}
-  ================================
-
+  
   ## Contributors
   * ${data.contribute}
 
