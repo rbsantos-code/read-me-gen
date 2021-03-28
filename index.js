@@ -65,9 +65,7 @@ function writeToFile(fileName, data) {}
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
-        .then(getAnswers => {
-            console.log('Generating ReadMe!');
-        })
+        .then(getAnswers => console.log(getAnswers));
 };
 
 // Function call to initialize app
