@@ -61,6 +61,9 @@ function generateMarkdown(data) {
   * GitHub username is ${data.username}
   * Contact me here at ${data.email}
 
+  ## License
+  ${renderLicenseSection(data.license)}
+
 `;
 }
 
