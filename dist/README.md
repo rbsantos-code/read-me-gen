@@ -1,7 +1,7 @@
 # read-me-gen
-  ![License](https://img.shields.io/badge/license-MIT-blue)
+  ![License](https://img.shields.io/badge/license-ISC-blue)
 
-  ## GitHub Deployable URL
+  ## GitHub Profile
   * [rbsantos-code](https://github.com/rbsantos-code/)
 
   ## Description
@@ -21,27 +21,23 @@
 
   ## Packages 
   * install package(s) by running:
-
-  ================================
   inquirer
-  ================================
-
+  
   ## Test 
   * run this command in order to test:
-
-  ================================
   node
-  ================================
-
+  
   ## Contributors
   * richard santos
 
   ## Contact 
+  * If you have any questions, please feel free to reach out!
   * GitHub username is rbsantos-code
   * Contact me here at richardbriansantos91@gmail.com
+ 
 
   ## License
   
-    Copyright MIT. All rights reserved.
+    Copyright ISC. All rights reserved.
     
 
