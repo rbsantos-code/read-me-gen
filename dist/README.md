@@ -13,10 +13,11 @@
   * [Test](#test)
   * [Contributors](#contributors)
   * [Contact](#contact)
+  * [License](#license)
 
   
   ## Usage
-  * help users create readme documents
+  * Help users create README documents
 
   ## Packages 
   * install package(s) by running:

@@ -60,7 +60,7 @@ const questions = [
         type: 'checkbox',
         name: 'license',
         message: 'What license are you using for this project?',
-        choices: ['MIT', 'Apache2.0', 'ISC', 'GNUGOLv3', 'none']
+        choices: ['MIT', 'Apache2.0', 'ISC', 'GNUGOLv3', 'none'],
     },
     {
         type: 'input',
