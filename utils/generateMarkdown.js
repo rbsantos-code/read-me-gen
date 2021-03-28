@@ -55,7 +55,7 @@ function generateMarkdown(data) {
   ================================
 
   ## Contributors
-  * ${data.contributors}
+  * ${data.contribute}
 
   ## Contact 
   * GitHub username is ${data.username}
