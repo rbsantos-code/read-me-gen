@@ -1,7 +1,7 @@
 # read-me-gen
 
   ## GitHub Deployable URL
-  * [rbsantos-code]{https://github.com/rbsantos-code/}
+  * [rbsantos-code](https://github.com/rbsantos-code/)
 
   ## Description
   * read-me-gen
