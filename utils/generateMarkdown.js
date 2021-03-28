@@ -33,8 +33,8 @@ function generateMarkdown(data) {
   * [Usage]{#usage}
   * [Packages]{#packages}
   * [Test]{#test}
-  * [Contributors]{contributors}
-  * [Contact Me]{contact}
+  * [Contributors]{#contributors}
+  * [Contact]{#contact}
 
   
   ## Usage

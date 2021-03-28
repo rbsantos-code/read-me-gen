@@ -70,12 +70,23 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    fileName = index.js;
+    return fs.writeFileSync(fileName,data);
+
+}
 
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
-        .then(getAnswers => console.log(getAnswers));
+        .then(getAnswers => {
+            const readMe = generateMarkDown(getAnswers)
+            fs.writeFile('./dist/README.md', readMe, err => {
+                if (err) throw new Error(err);
+
+                console.log("README page created!");
+            })
+        })
 };
 
 // Function call to initialize app
