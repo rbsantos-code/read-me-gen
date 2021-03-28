@@ -24,7 +24,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## GitHub Deployable URL
-  * [${data.username}]{https://github.com/${data.username}/}
+  * [${data.username}](https://github.com/${data.username}/)
 
   ## Description
   * ${data.description}
