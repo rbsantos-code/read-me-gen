@@ -1,5 +1,5 @@
 # read-me-gen
-  [License](https://img.shields.io/badge/license-MIT-blue)
+  ![License](https://img.shields.io/badge/license-MIT-blue)
 
   ## GitHub Deployable URL
   * [rbsantos-code](https://github.com/rbsantos-code/)
@@ -33,7 +33,7 @@
   ================================
 
   ## Contributors
-  * rbsantos-code
+  * richard santos
 
   ## Contact 
   * GitHub username is rbsantos-code
