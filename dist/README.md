@@ -1,5 +1,5 @@
 # read-me-gen
-  [License](https://img.shields.io/badge/license-${license}-blue)
+  [License](https://img.shields.io/badge/license-${license(data.license)}-blue)
 
   ## GitHub Deployable URL
   * [rbsantos-code](https://github.com/rbsantos-code/)
@@ -16,7 +16,7 @@
 
   
   ## Usage
-  * help users create professional readme documents
+  * help users create readme documents
 
   ## Packages 
   * install package(s) by running:
