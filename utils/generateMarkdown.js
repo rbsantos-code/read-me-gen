@@ -36,7 +36,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
 
-  ## GitHub Deployable URL
+  ## GitHub Profile
   * [${data.username}](https://github.com/${data.username}/)
 
   ## Description
@@ -66,8 +66,10 @@ function generateMarkdown(data) {
   * ${data.contribute}
 
   ## Contact 
+  * If you have any questions, please feel free to reach out!
   * GitHub username is ${data.username}
   * Contact me here at ${data.email}
+ 
 
   ## License
   ${renderLicenseSection(data.license)}
