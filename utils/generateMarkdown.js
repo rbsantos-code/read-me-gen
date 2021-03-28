@@ -15,16 +15,42 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## GitHub Deployable URL
+  * [${data.username}]{https://github.com/${data.username}/}
 
   ## Description
+  * ${data.description}
 
   ## Table of Contents
+  * [Usage]{#usage}
+  * [Packages]{#packages}
+  * [Test]{#test}
+  * [Contributors]{contributors}
+  * [Contact Me]{contact}
 
+  
   ## Usage
+  * ${data.usage}
+
+  ## Packages 
+  * install package(s) by running:
+
+  ================================
+  ${data.packages}
+  ================================
+
+  ## Test 
+  * run this command in order to test:
+
+  ================================
+  ${data.test}
+  ================================
 
   ## Contributors
+  * ${data.contributors}
 
-  ## Contact Me
+  ## Contact 
+  * GitHub username is ${data.username}
+  * Contact me here at ${data.email}
 
 `;
 }

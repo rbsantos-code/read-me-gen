@@ -47,6 +47,16 @@ const questions = [
         message: 'What is the purpose of this repo?'
     },
     {
+        type: 'input',
+        name: 'packages',
+        message: 'What packages do you need to install?'
+    },
+    {
+        type: 'input',
+        name: 'test',
+        message: 'What command to run in order to test?'
+    },
+    {
         type: 'checkbox',
         name: 'license',
         message: 'What license are you using for this project?',
