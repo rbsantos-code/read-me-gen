@@ -15,7 +15,7 @@
 
   
   ## Usage
-  * Help users create a professional readme document
+  * help users create professional readme documents
 
   ## Packages 
   * install package(s) by running:
@@ -40,6 +40,6 @@
 
   ## License
   
-    Copyright . All rights reserved.
+    Copyright MIT. All rights reserved.
     
 
