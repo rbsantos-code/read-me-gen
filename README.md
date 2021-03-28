@@ -19,6 +19,13 @@
 
 ## Screenshots
 ![github com_rbsantos-code_read-me-gen_tree_main_dist(iPad Pro)](https://user-images.githubusercontent.com/77135925/112765764-8b190700-8fc3-11eb-8faf-24f660c75ec5.png)
+* Code
+<img width="872" alt="Screen Shot 2021-03-28 at 12 50 39 PM" src="https://user-images.githubusercontent.com/77135925/112765927-4e014480-8fc4-11eb-8124-9428cf246e44.png">
+<img width="589" alt="Screen Shot 2021-03-28 at 12 50 57 PM" src="https://user-images.githubusercontent.com/77135925/112765930-50639e80-8fc4-11eb-8230-faa461e286ee.png">
+<img width="765" alt="Screen Shot 2021-03-28 at 12 51 16 PM" src="https://user-images.githubusercontent.com/77135925/112765931-5194cb80-8fc4-11eb-8444-b4adfa872927.png">
+
+
+
 
 
 ## Video
