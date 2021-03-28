@@ -7,15 +7,15 @@
   * read-me-gen
 
   ## Table of Contents
-  * [Usage]{#usage}
-  * [Packages]{#packages}
-  * [Test]{#test}
-  * [Contributors]{#contributors}
-  * [Contact Me]{#contact}
+  * [Usage](#usage)
+  * [Packages](#packages)
+  * [Test](#test)
+  * [Contributors](#contributors)
+  * [Contact](#contact)
 
   
   ## Usage
-  * help users create a professional readme document
+  * Help users create a professional readme document
 
   ## Packages 
   * install package(s) by running:
@@ -32,7 +32,7 @@
   ================================
 
   ## Contributors
-  * undefined
+  * rbsantos-code
 
   ## Contact 
   * GitHub username is rbsantos-code
@@ -40,6 +40,6 @@
 
   ## License
   
-    Copyright MIT. All rights reserved.
+    Copyright . All rights reserved.
     
 

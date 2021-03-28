@@ -30,11 +30,11 @@ function generateMarkdown(data) {
   * ${data.description}
 
   ## Table of Contents
-  * [Usage]{#usage}
-  * [Packages]{#packages}
-  * [Test]{#test}
-  * [Contributors]{#contributors}
-  * [Contact]{#contact}
+  * [Usage](#usage)
+  * [Packages](#packages)
+  * [Test](#test)
+  * [Contributors](#contributors)
+  * [Contact](#contact)
 
   
   ## Usage
