@@ -12,10 +12,10 @@
 
 
 ## Goals
-* Create a README generator that will ask questions about a project and display them onto the README document in specify sections.
+* Create a README generator that will ask questions about a project and display them onto the README document in specific sections.
 * Create sections such as: Description, Table of Contents, Installation, Usage, Licesens, Contributor, Test, and Contacts
-* Create a series of questions and input function in order to obtain info need for the README
-* After user answers all the questions, a README document will be created
+* Create a series of questions and input function in order to obtain info needed for the README
+* After the user answers all the questions, a README document will be created
 
 ## Screenshots
 * Generated README
